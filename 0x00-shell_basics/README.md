@@ -1,1 +1,1 @@
-Display current directory contents in long format
+Delete my first directory
