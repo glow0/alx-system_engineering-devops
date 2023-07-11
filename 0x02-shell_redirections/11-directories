@@ -1,0 +1,2 @@
+#!/bin/bash
+find _ -type d -not -name | wc -1
